@@ -3,9 +3,9 @@
   margin-top: 10px;
   top: 0;
   left: 0;
-  .navbar-brand {
-      margin-right: 0;
-  }
+}
+.navbar-brand {
+  margin-right: 0;
 }
 .shrink {
   background: #fff;

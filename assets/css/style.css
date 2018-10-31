@@ -1,12 +1,15 @@
 
 body {
-  padding-top: 54px;
+  padding: 0;
+  margin: 0;
+  height: 100%;
 }
 
-.home-nav {
-  background: transparent !important;
-}
+/* HOME */
 
+#home-carousel {
+  padding-top: 50px;
+}
 .carousel-item {
   height: 65vh;
   min-height: 300px;
@@ -16,15 +19,14 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+#home h2 {
+  padding: 15px auto;
+  padding-bottom: 15px;
+  margin-bottom: 0;
+}
+
+/* ENDS HOME */
 
 .portfolio-item {
   margin-bottom: 30px;
-}
-
-/* MEDIA SCREEN */
-
-@media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
 }
