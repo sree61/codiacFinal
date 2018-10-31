@@ -3,10 +3,8 @@ body {
   padding-top: 54px;
 }
 
-@media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
+.home-nav {
+  background: transparent !important;
 }
 
 .carousel-item {
@@ -21,4 +19,12 @@ body {
 
 .portfolio-item {
   margin-bottom: 30px;
+}
+
+/* MEDIA SCREEN */
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
 }

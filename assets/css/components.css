@@ -1,5 +1,5 @@
 .navbar {
-  background: #fff !important;
+  background: #fff;
   margin-top: 10px;
   top: 0;
   left: 0;
@@ -8,11 +8,8 @@
   }
 }
 .shrink {
-  background: #fff !important;
+  background: #fff;
   transition: 0.5s ease;
   margin: 0px;
   box-shadow: 0 8px 6px -6px rgba(0,0,0,.4);
-  .menu-btn {
-      color: #000 !important;
-  }
 }
