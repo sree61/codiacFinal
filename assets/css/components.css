@@ -18,4 +18,21 @@ section {
 }
 .breadcrumb {
   background-color: transparent;
+  padding-left: 0;
+}
+.breadcrumb li a {
+  color: blue;
+}
+.links li a {
+  color: black;
+  font-size: 25px;
+  opacity: 0.85;
+}
+.links:hover a {
+  opacity: 0.7;
+  transition: 0.3s all ease-in;
+}
+.links li a:hover {
+  opacity: 1;
+  transition: 0.3s all ease-in;
 }
