@@ -17,7 +17,7 @@ Welcome! This repository contains all of the assets required to build the websit
 
 ##### Follow us
 
-| 🖥 [Website](http://cemcodiac.org/) | 💬 [Email](mailto:codebreakers2k16@gmail.com) | 🚀 [Facebook](https://www.facebook.com/csedpt/) | 🐥 [YouTube   ](https://www.youtube.com/channel/UCZ6DqId6mowDVJ4Anaq8-0w) | 📷 [Instagram](https://instagram.com/cemcodiac) |
+| 🖥 [Website](http://www.cemcodiac.org/) | 💬 [Email](mailto:codebreakers2k16@gmail.com) | 🚀 [Facebook](https://www.facebook.com/csedpt/) | 🐥 [YouTube   ](https://www.youtube.com/channel/UCZ6DqId6mowDVJ4Anaq8-0w) | 📷 [Instagram](https://instagram.com/cemcodiac) |
 
 
 --------
